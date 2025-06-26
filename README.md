@@ -9,5 +9,5 @@ Este repositório tem o intuito de demonstrar na prática a aplicação do conte
 - [Availability Sets com Dominios de Falha e de Atualização](https://learn.microsoft.com/pt-br/azure/virtual-machines/availability?WT.mc_id=UI_empg)
 
 # Material de Apoio
-- [Entendendo o Desafio](images/DIO _ entendendo o desafio.pdf)
-- (https://web.dio.me/lab/gerenciando-maquinas-virtuais-no-azure/learning/undefined)
+- [Entendendo o Desafio]([images/DIO _ entendendo o desafio.pdf](https://github.com/breiaudemy/dio-git-e-github/blob/cc2c19efd510e412b5f207784ef57794c02c673b/images/DIO%20_%20entendendo%20o%20desafio.pdf))
+
