@@ -1,7 +1,8 @@
 
 # Projeto Dio - Máquinas Virtuais
 
-Este repositório tem o intuito de demonstrar na prática a aplicação do conteúdo visto nas aulas para a criação de Máquinas Virtuais na [DIO](https://www.dio.me/).
+## Este repositório tem o intuito de demonstrar na prática a aplicação do conteúdo visto nas aulas para a criação de Máquinas Virtuais na [DIO](https://www.dio.me/).
+## Desafio para Implementar Monitoramento utilizando o Azure Monitor
 
 👉 Documentação
 - [Máquinas Virtuais](https://azure.microsoft.com/pt-br/products/virtual-machines)
