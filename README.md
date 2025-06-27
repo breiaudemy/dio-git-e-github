@@ -12,4 +12,4 @@ Este repositório tem o intuito de demonstrar na prática a aplicação do conte
 - [Entendendo o Desafio](https://github.com/breiaudemy/dio-git-e-github/blob/cc2c19efd510e412b5f207784ef57794c02c673b/images/DIO%20_%20entendendo%20o%20desafio.pdf)
 
 # Implementando Monitoramento em Máquinas Virtuais
-- 
+- [Implementar Monitoramento](https://github.com/breiaudemy/dio-git-e-github/blob/46518fd30c8c3bc1f5f46d341bf38101687d4879/images/Implementar%20Monitoramento.pdf)
