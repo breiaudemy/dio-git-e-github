@@ -1,8 +1,7 @@
 
 # Projeto Dio - Máquinas Virtuais
 
-## Este repositório tem o intuito de demonstrar na prática a aplicação do conteúdo visto nas aulas para a criação de Máquinas Virtuais na [DIO](https://www.dio.me/).
-## Desafio para Implementar Monitoramento utilizando o Azure Monitor
+### Este repositório tem o intuito de demonstrar na prática a aplicação do conteúdo visto nas aulas para a criação de Máquinas Virtuais na [DIO](https://www.dio.me/).
 
 👉 Documentação
 - [Máquinas Virtuais](https://azure.microsoft.com/pt-br/products/virtual-machines)
@@ -12,5 +11,9 @@
 # Material de Apoio
 - [Entendendo o Desafio](https://github.com/breiaudemy/dio-git-e-github/blob/cc2c19efd510e412b5f207784ef57794c02c673b/images/DIO%20_%20entendendo%20o%20desafio.pdf)
 
-# Implementando Monitoramento em Máquinas Virtuais
+# Desafio para Implementar Monitoramento utilizando o Azure Monitor
+### Implementando Monitoramento em Máquinas Virtuais
 - [Implementar Monitoramento](https://github.com/breiaudemy/dio-git-e-github/blob/46518fd30c8c3bc1f5f46d341bf38101687d4879/images/Implementar%20Monitoramento.pdf)
+  
+👉 Documentação
+- [Monitoramento de VMs com Azure Monitor](https://learn.microsoft.com/pt-br/azure/virtual-machines/monitor-vm)
